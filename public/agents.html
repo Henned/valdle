@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <script src="js/jQuery.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+</head>
+<body class="bg-gray-700">
+    <div class="max-w-screen p-5">
+        <img class="mx-auto" src="img/Valorant_logo.png" height="92" width="644"/>
+        <p class="text-center text-4xl mt-12 text-white">
+        Guess the Agent
+        </p>
+        <div class="flex flex-col items-center mt-12">
+            <input class="bg-gray-700 w-1/2 h-20 border text-white" type="text" placeholder="Agent" id="agentsField">
+
+            <div class="w-4/5 basis-full flex flex-col items-center">
+                <div class="flex flex-wrap">
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Agent</div>
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Role</div>
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Origin</div>
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Gender</div>
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Release</div>
+                    <div class="w-32 h-6 mx-5 mt-5 flex items-center justify-center border text-white">Ult Points</div>
+                </div>
+            </div>
+
+            <div class="w-4/5 basis-full flex flex-col items-center" id="results">
+
+            </div>
+        </div>
+    </div>
+    <p id="won" style="display: none">You Won</p>
+    <script src="js/app.js"></script>
+</body>
+</html>

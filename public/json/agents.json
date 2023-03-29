@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0",
+    "name": "Brimstone",
+    "img": "img/agents/Brimstone_icon.webp",
+    "type": "Controller",
+    "origin": "United States",
+    "sex": "male",
+    "release": "2020",
+    "ult": "7"
+  },
+  {
+    "id": "1",
+    "name": "Viper",
+    "img": "img/agents/Viper_icon.webp",
+    "type": "Controller",
+    "origin": "United States",
+    "sex": "female",
+    "release": "2020",
+    "ult": "8"
+  },
+  {
+    "id": "2",
+    "name": "Omen",
+    "img": "img/agents/Omen_icon.webp",
+    "type": "Controller",
+    "origin": "Unknown",
+    "sex": "male",
+    "release": "2020",
+    "ult": "7"
+  },
+  {
+    "id": "3",
+    "name": "Killjoy",
+    "img": "img/agents/Killjoy_icon.webp",
+    "type": "Sentinel",
+    "origin": "Germany",
+    "sex": "female",
+    "release": "2020",
+    "ult": "7"
+  },
+  {
+    "id": "4",
+    "name": "Cypher",
+    "img": "img/agents/Cypher_icon.webp",
+    "type": "Sentinel",
+    "origin": "Morocco",
+    "sex": "male",
+    "release": "2020",
+    "ult": "6"
+  },
+  {
+    "id": "5",
+    "name": "Sova",
+    "img": "img/agents/Sova_icon.webp",
+    "type": "Initiator",
+    "origin": "Russia",
+    "sex": "male",
+    "release": "2020",
+    "ult": "8"
+  },
+  {
+    "id": "6",
+    "name": "Sage",
+    "img": "img/agents/Sage_icon.webp",
+    "type": "Sentinel",
+    "origin": "China",
+    "sex": "female",
+    "release": "2020",
+    "ult": "8"
+  },
+  {
+    "id": "7",
+    "name": "Phoenix",
+    "img": "img/agents/Phoenix_icon.webp",
+    "type": "Duelist",
+    "origin": "United Kingdom",
+    "sex": "male",
+    "release": "2020",
+    "ult": "6"
+  },
+  {
+    "id": "8",
+    "name": "Jett",
+    "img": "img/agents/Jett_icon.webp",
+    "type": "Duelist",
+    "origin": "South Korea",
+    "sex": "female",
+    "release": "2020",
+    "ult": "7"
+  },
+  {
+    "id": "9",
+    "name": "Reyna",
+    "img": "img/agents/Reyna_icon.webp",
+    "type": "Duelist",
+    "origin": "Mexico",
+    "sex": "female",
+    "release": "2020",
+    "ult": "6"
+  },
+  {
+    "id": "10",
+    "name": "Raze",
+    "img": "img/agents/Raze_icon.webp",
+    "type": "Duelist",
+    "origin": "Brazil",
+    "sex": "female",
+    "release": "2020",
+    "ult": "8"
+  },
+  {
+    "id": "11",
+    "name": "Breach",
+    "img": "img/agents/Breach_icon.webp",
+    "type": "Initiator",
+    "origin": "Sweden",
+    "sex": "male",
+    "release": "2020",
+    "ult": "8"
+  },
+  {
+    "id": "12",
+    "name": "Skye",
+    "img": "img/agents/Skye_icon.webp",
+    "type": "Initiator",
+    "origin": "Australia",
+    "sex": "female",
+    "release": "2020",
+    "ult": "7"
+  },
+  {
+    "id": "13",
+    "name": "Yoru",
+    "img": "img/agents/Yoru_icon.webp",
+    "type": "Duelist",
+    "origin": "Japan",
+    "sex": "male",
+    "release": "2021",
+    "ult": "7"
+  },
+  {
+    "id": "14",
+    "name": "Astra",
+    "img": "img/agents/Astra_icon.webp",
+    "type": "Controller",
+    "origin": "Ghana",
+    "sex": "female",
+    "release": "2021",
+    "ult": "7"
+  },
+  {
+    "id": "15",
+    "name": "KAY/O",
+    "img": "img/agents/KAYO_icon.webp",
+    "type": "Initiator",
+    "origin": "Alternate Timeline Earth",
+    "sex": "male",
+    "release": "2021",
+    "ult": "8"
+  },
+  {
+    "id": "16",
+    "name": "Chamber",
+    "img": "img/agents/Chamber_icon.webp",
+    "type": "Sentinel",
+    "origin": "France",
+    "sex": "male",
+    "release": "2021",
+    "ult": "8"
+  },
+  {
+    "id": "17",
+    "name": "Neon",
+    "img": "img/agents/Neon_icon.webp",
+    "type": "Duelist",
+    "origin": "Philippines",
+    "sex": "female",
+    "release": "2022",
+    "ult": "7"
+  },
+  {
+    "id": "18",
+    "name": "Fade",
+    "img": "img/agents/Fade_icon.webp",
+    "type": "Initiator",
+    "origin": "Türkiye",
+    "sex": "female",
+    "release": "2022",
+    "ult": "8"
+  },
+  {
+    "id": "19",
+    "name": "Harbor",
+    "img": "img/agents/Harbor_icon.webp",
+    "type": "Controller",
+    "origin": "India",
+    "sex": "male",
+    "release": "2022",
+    "ult": "7"
+  },
+  {
+    "id": "20",
+    "name": "Gekko",
+    "img": "img/agents/Gekko_icon.webp",
+    "type": "Initiator",
+    "origin": "United States",
+    "sex": "male",
+    "release": "2023",
+    "ult": "7"
+  }
+]
